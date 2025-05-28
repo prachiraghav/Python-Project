@@ -1,7 +1,7 @@
 # user to guess the number
 # take intput range
 # take guess of user
-# tell them how close they were the number
+# tell them how close they were the number      
 # stop when the number is guessed
 import random 
 
