@@ -1,3 +1,4 @@
+# Number Guessing Game
 # user to guess the number
 # take intput range
 # take guess of user
@@ -26,4 +27,7 @@ while True:
         print("Your guess was below the number.")
     print("❌ Wrong guess. Try again.")
         
+print("Thank you for playing the Number Guessing Game!")
+
+
 
